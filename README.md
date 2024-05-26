@@ -19,8 +19,8 @@ Software Trainer @ FIIT FORMACION PVT LTD
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Xiaomi_Notebook-Ultra_15-ED1C24?style=for-the-badge&logo=xiaomi&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/INTEL-CORE%20i5-76B900?style=for-the-badge&logo=intel&logoColor=white"/>  
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Mugilvannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-MUGILVANNAN&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![LeetCode Stats](https://leetcode.card.workers.dev/Mugil_123?theme=dark&font=baloo&extension=null)](https://leetcode.com/Mugi_123)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mugilvannan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=P-MUGILVANNAN&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
