@@ -22,6 +22,4 @@
 
 ![Mugilvannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-MUGILVANNAN&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/Mugil_123?theme=dark&font=baloo&extension=null)](https://leetcode.com/Mugi_123)
-
 [![Mugilvannan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=P-MUGILVANNAN&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
