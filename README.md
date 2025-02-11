@@ -2,7 +2,6 @@
                  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=0096FFDC&width=430&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Mugilvannan+!" />
 </h1>
 
-Software Trainer @ FIIT FORMACION PVT LTD
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://mugilvannan1223.netlify.app)                                                 
 - 🌱 I’m currently learning VUE.JS
