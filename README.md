@@ -15,18 +15,39 @@
 
 ---
 
-## 🚀 Languages & Technologies  
+## 🧑‍💻 Skills  
 
+### 🌐 Frontend Development  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,firebase,php,ts,cs,flutter,git,aws" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,angular,vue,nextjs,flutter" />
 </p>
 
----
-
-## 🛠 IDE & Tools I Use  
-
+### ⚙️ Backend Development  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,eclipse,git,github,postman,figma,notion" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,flask" />
+</p>
+
+### ⚙️ Databases  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,sqlite" />
+</p>
+
+### 💡 Programming Languages  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts,cs" />
+</p>
+
+### 📚 Libraries & Data Science  
+<p align="center">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" height="30"/>  
+<img src="https://img.shields.io/badge/Scipy-654FF0?style=for-the-badge&logo=scipy&logoColor=white" height="30"/>  
+</p>
+
+### 🛠 Tools & Platforms  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,eclipse,git,github,postman,figma,aws,firebase,mysql,mongodb" />
 </p>
 
 ---
