@@ -15,6 +15,13 @@
 
 ---
 
+## 💼 Experience  
+
+- 🧑‍🏫 **Software Trainer** at **FIIT FORMACION PVT LTD** — *2 Years 2 Months*  
+- 💻 **Software Developer (Team Lead)** at **EntryKode IT Solutions** — *Currently Working*  
+
+---
+
 ## 🧑‍💻 Skills  
 
 ### 🌐 Frontend Development  
@@ -60,32 +67,6 @@
 <img height="30" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
 </p>
 
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=P-MUGILVANNAN&theme=tokyonight&show_icons=true&hide=issues,contribs" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=P-MUGILVANNAN&theme=tokyonight&hide_border=false" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-MUGILVANNAN&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-MUGILVANNAN&bg_color=000000&color=00FFFF&line=00FF99&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=P-MUGILVANNAN&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak  
 
