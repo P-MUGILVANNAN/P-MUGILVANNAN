@@ -5,7 +5,7 @@
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 👨‍💻 About Me  
-- 🔭 Check out my **[Portfolio](https://mugilvannan-portfolio.vercel.app/)**  
+- 🔭 Check out my **[Portfolio](https://mugilvannanp-portfolio.vercel.app/)**  
 - 🌱 Currently exploring **AWS & Cloud Technologies**  
 - 💬 Ask me about **MERN, Flutter, Python, Data Analytics, Training**  
 - 📫 Connect with me:  
