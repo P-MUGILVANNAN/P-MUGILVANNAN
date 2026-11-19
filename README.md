@@ -18,7 +18,7 @@
 ## 💼 Experience  
 
 - 🧑‍🏫 **Software Trainer** at **FIIT FORMACION PVT LTD** — *2 Years 2 Months*  
-- 💻 **Software Developer (Team Lead)** at **EntryKode IT Solutions** — *Currently Working*  
+- 💻 **Project Team Lead** at **EntryKode IT Solutions** — *Currently Working*  
 
 ---
 
